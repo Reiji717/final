@@ -9,7 +9,7 @@
 <h2>楽曲を追加</h2>
 <a href="menu.php">メニューに戻る</a>
 <hr>
-<form action="" method="post">
+<form action="insert-output.php" method="post">
     食品名：<input type="text" name="food">
     <br>
     カロリー：<input type="text" name="calorie">
