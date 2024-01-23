@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-<h2>楽曲を追加</h2>
+<h2>食品を追加</h2>
 <a href="menu.php">メニューに戻る</a>
 <hr>
 <form action="insert-output.php" method="post">

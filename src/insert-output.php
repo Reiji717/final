@@ -11,3 +11,4 @@ if (isset($_REQUEST['food'], $_REQUEST['calorie'])) {
     }
 }
 ?>
+<p><input type="button" onclick="location.href='menu.php'" value="メニューへ戻る"></p>

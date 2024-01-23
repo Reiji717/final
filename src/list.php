@@ -12,7 +12,7 @@ require 'db-connect.php';
 </head>
 <body>
     <h2>食品一覧</h2>
-    <a href="CRUD-menu.php">メニューに戻る</a>
+    <a href="menu.php">メニューに戻る</a>
 
     <?php
     $pdo = new PDO('mysql:host=mysql220.phy.lolipop.lan;dbname=LAA1517435-final;charset=utf8', 'LAA1517435', 'Pass0717');
